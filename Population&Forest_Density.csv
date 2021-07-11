@@ -1,0 +1,191 @@
+,Country,Population_Density_km2,Forest_percentage
+0,Afghanistan,1631,00.25
+1,Albania,7716,26.84
+2,Algeria,42000,01.70
+3,Andorra,160,34.19
+4,Angola,591040,47.41
+5,Antigua and Barbuda,90,21.00
+6,Argentina,945336,34.00
+7,Armenia,2974,10.00
+8,Australia,1250000,16.00
+9,Austria,39600,47.20
+10,Azerbaijan,11400,13.17
+11,Bahamas,5150,51.45
+12,Bahrain,5,00.67
+13,Bangladesh,8710,06.05
+14,Barbados,20,04.65
+15,Belarus,80334,38.60
+16,Belgium,6834,22.38
+17,Belize,16530,71.98
+18,Benin,61860,54.93
+19,Bhutan,24764,70.46
+20,Bolivia,587400,53.47
+21,Bosnia and Herzegovina,32315,63.00
+22,Botswana,119430,20.53
+23,Brazil,5440000,64.00
+24,Brunei,2780,48.22
+25,Bulgaria,36250,32.69
+26,Burkina Faso,67940,24.78
+27,Burundi,1270,04.50
+28,Cambodia,93350,51.56
+29,Cameroon,212450,44.68
+30,Canada,3470000,23.00
+31,Cape Verde,840,20.83
+32,Central African Republic,227550,36.53
+33,Chad,119210,09.28
+34,Chile,158781,21.00
+35,Colombia,607280,53.32
+36,Comoros,50,02.24
+37,Costa Rica,20440,40.00
+38,Croatia,24901,44.00
+39,Cuba,27130,24.47
+40,Cyprus,1740,18.81
+41,Czech Republic,26000,34.00
+42,Democratic Republic of the Congo,1172704,50.00
+43,Denmark,6120,14.20
+44,Djibouti,60,00.26
+45,Dominica,488,65.00
+46,Dominican Republic,13384,27.50
+47,Ecuador,115510,42.00
+48,Egypt,670,00.07
+49,El Salvador,2980,14.16
+50,Equatorial Guinea,16320,58.18
+51,Eritrea,15540,13.21
+52,Estonia,23066,61.00
+53,Eswatini (Swaziland),174,01.00
+54,Ethiopia,39313,03.56
+55,Fiji,10000,54.72
+56,Finland,233320,72.00
+57,France,246640,36.76
+58,Gabon,227517,85.00
+59,Gambia,4857,43.00
+60,Georgia,28577,41.00
+61,Germany,114190,32.00
+62,Ghana,24600,10.20
+63,Greece,37520,28.43
+64,Grenada,40,11.63
+65,Guatemala,108894,51.00
+66,Guinea,67240,27.35
+67,Guinea-Bissau,20720,57.36
+68,Guyana,151040,70.26
+69,Haiti,8300,30.00
+70,Honduras,67254,60.00
+71,Hungary,20990,23.00
+72,Iceland,1930,02.00
+73,India,807300,24.56
+74,Indonesia,884950,46.46
+75,Iran,110750,06.72
+76,Iraq,8220,01.88
+77,Ireland,7540,11.07
+78,Israel,1600,07.00
+79,Italy,106736,35.00
+80,Ivory Coast,30000,09.30
+81,Jamaica,3308,30.10
+82,Japan,253203,67.00
+83,Jordan,893,01.00
+84,Kazakhstan,54498,02.00
+85,Kenya,13200,02.27
+86,Kiribati,20,02.47
+87,Kuwait,60,00.34
+88,Kyrgyzstan,8690,04.35
+89,Laos,170000,71.60
+90,Latvia,38755,60.00
+91,Lebanon,1383,13.30
+92,Lesotho,80,00.26
+93,Liberia,31540,28.32
+94,Libya,2170,00.12
+95,Liechtenstein,70,43.75
+96,Lithuania,21223,33.00
+97,Luxembourg,870,33.64
+98,Madagascar,128380,21.87
+99,Malawi,33176,28.00
+100,Malaysia,195200,59.50
+101,Maldives,10,03.56
+102,Mali,125720,10.14
+103,Malta,3,00.95
+104,Mauritania,2670,00.26
+105,Mauritius,612,30.00
+106,Mexico,710000,36.50
+107,Micronesia,630,89.74
+108,Moldova,3290,09.72
+109,Mongolia,102520,06.55
+110,Montenegro,6252,45.26
+111,Morocco,111325,15.66
+112,Mozambique,620000,78.00
+113,Myanmar,430560,63.64
+114,Namibia,76610,09.29
+115,Nepal,36360,24.7
+116,Netherlands,3650,08.79
+117,New Zealand,85424,31.87
+118,Nicaragua,51890,39.80
+119,Niger,112000,08.00
+120,Nigeria,110890,12.00
+121,North Korea,76240,73.00
+122,North Macedonia,10285,40.00
+123,Norway,121120,37.42
+124,Oman,13050,04.22
+125,Pakistan,42240,05.31
+126,Palau,400,87.15
+127,Palestine,90,01.45
+128,Panama,42940,56.93
+129,Papua New Guinea,294370,63.60
+130,Paraguay,184750,45.42
+131,Peru,687420,53.49
+132,Philippines,71620,23.87
+133,Poland,90000,28.80
+134,Portugal,31820,34.80
+135,Qatar,9,00.07
+136,Republic of the Congo,224710,65.70
+137,Romania,69610,29.02
+138,Russia,12000000,70.17
+139,Rwanda,3161,12.00
+140,Saint Kitts and Nevis,50,19.16
+141,Saint Lucia,170,27.60
+142,Saint Vincent and the Grenadines,127,32.56
+143,Samoa,1050,37.00
+144,San Marino,1,01.64
+145,Saudi Arabia,27000,01.26
+146,Senegal,86730,44.09
+147,Serbia,27200,31.13
+148,Seychelles,407,89.45
+149,Sierra Leone,27540,38.39
+150,Singapore,20,03.00
+151,Slovakia,20006,40.80
+152,Slovenia,12574,62.02
+153,Solomon Islands,23117,80.0
+154,Somalia,71310,11.18
+155,South Africa,89170,07.31
+156,South Korea,63346,63.20
+157,South Sudan,148196,23.00
+158,Spain,184180,36.70
+159,Sri Lanka,19330,70
+160,Sudan,327909,17.62
+161,Suriname,147760,90.20
+162,Sweden,280730,68.95
+163,Switzerland,12540,31.80
+164,Syria,4610,02.49
+165,São Tomé and Príncipe,270,28.01
+166,Taiwan,21588,60.00
+167,Tajikistan,4100,02.87
+168,Tanzania,352570,37.22
+169,Thailand,147620,31.68
+170,Timor-Leste,7980,53.65
+171,Togo,8000,14.00
+172,Tonga,40,05.35
+173,Trinidad and Tobago,2260,44.07
+174,Tunisia,2601,1.59
+175,Turkey,216781,36.60
+176,Turkmenistan,41270,08.46
+177,Tuvalu,23,89.12
+178,Uganda,50000,20.74
+179,Ukraine,105000,17.00
+180,United Arab Emirates,3120,03.73
+181,United Kingdom,28650,11.76
+182,Uruguay,7000,04.00
+183,Uzbekistan,19690,04.40
+184,Vanuatu,4470,36.67
+185,Venezuela,471378,51.68
+186,Vietnam,123000,37.14
+187,Yemen,4490,00.85
+188,Zambia,376309,50.00
+189,Zimbabwe,259267,66.35

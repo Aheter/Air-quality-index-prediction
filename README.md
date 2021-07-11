@@ -7,8 +7,8 @@ What is the main cause of air pollution?
 Is it possible to predict the air pollution index in a particular area?
 What pattern can we observe and which conclusions can we learn from them? (according to the data)
 
-#### The project has many steps and contained a lot of information 
-#### The purpose of this file is to show you the order of actions.
+### The project has many steps and contained a lot of information 
+### The purpose of this file is to show you the order of actions.
 
 1. Scraping.ipynb 
 
@@ -30,7 +30,7 @@ Analyzing data from Final_Data.csv : correlations , graphs and visualizations. R
 
 5. Scraping_more.ipynb 
 
-Scraping more information from different sources on data like forest percent of country, population .
+Scraping more information from different sources on data like forest percent of a country, population, etc.
 Creating two files : CountiesByVehicleAndMAnufacturing.csv and Population&Forest_Density.csv
 
 6. Analizing correlations.ipynb
@@ -40,7 +40,7 @@ Adding more information to Final_Data.csv and exporting to Final.csv
 
 7. Outliers-final csv.ipynb
 
-Dealing with outliers in Final.csv. Exporting data frame to : Final_after_outliers.csv
+Dealing with outliers in Final.csv. Exporting the data frame to : Final_after_outliers.csv
 
 8. Machine learning.ipynb
 

@@ -7,8 +7,8 @@ What is the main cause of air pollution?
 Is it possible to predict the air pollution index in a particular area?
 What pattern can we observe and which conclusions can we learn from them? (according to the data)
 
-## The project has many steps and contained a lot of information 
-## The purpose of this file is to show you the order of actions.
+#### The project has many steps and contained a lot of information 
+#### The purpose of this file is to show you the order of actions.
 
 1. Scraping.ipynb 
 

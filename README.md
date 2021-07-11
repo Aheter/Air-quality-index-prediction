@@ -17,7 +17,7 @@ resultCountry.csv, resultDistrict.csv, resultCity.csv
 
 2. Scraping_Cuncurrent1.ipynb
 
-Using concurrent.features scraping data like AQI, temperature, humidity, etc. for each city 
+Using concurrent.features, scraping data like AQI, temperature, humidity, etc. for each city.
 Creating result_ex.csv file.
 
 3. Data_Cleaning.ipynb
@@ -26,7 +26,7 @@ Cleaning the data in result_ex.csv from unwanted symbols and dividing into colum
 
 4. Data handling.csv 
 
-Analyzing data from Final_Data.csv : correlations , graphs and visualizations. Realizing it's not enough
+Analyzing data from Final_Data.csv : correlations , graphs and visualizations. Realizing it's not enough!
 
 5. Scraping_more.ipynb 
 

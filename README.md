@@ -1,13 +1,14 @@
 # Air-quality-index-prediction
 The purpose of this project is the answer the following questions:
+
 What is the main cause of air pollution?
 (Population, temperature, factories, amount of cars…)
 
 Is it possible to predict the air pollution index in a particular area?
 What pattern can we observe and which conclusions can we learn from them? (according to the data)
 
-The project has mana steps and contained a lot of information 
-This specific file is created in order to give you the order of actions.
+# The project has many steps and contained a lot of information 
+# The purpose of this file is to show you the order of actions.
 
 1. Scraping.ipynb 
 

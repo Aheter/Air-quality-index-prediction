@@ -44,7 +44,7 @@ Adding more information to Final_Data.csv and exporting to Final.csv
 
 Dealing with outliers in Final.csv. Exporting the data frame to : Final_after_outliers.csv
 
-8. Machine learning.ipynb
+8. Machine learning(2).ipynb
 
 Performing machine learning on Final_after_outliers.csv
 

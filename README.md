@@ -5,10 +5,11 @@ What is the main cause of air pollution?
 (Population, temperature, factories, amount of cars…)
 
 Is it possible to predict the air pollution index in a particular area?
-What pattern can we observe and which conclusions can we learn from them? (according to the data)
+What pattern can we observe and which conclusions can we make from them? (according to the data)
 
-### The project has many steps and contained a lot of information 
+### The project has many steps and containes a lot of information 
 ### This specific file was created to show you the order of actions.
+
 
 1. Scraping.ipynb 
 

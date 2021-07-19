@@ -9,6 +9,7 @@ What pattern can we observe and which conclusions can we make from them? (accord
 
 ### The project has many steps and containes a lot of information 
 ### This specific file was created to show you the order of actions.
+### You can find more information in our .pptx presenation: AirQualityIndexPrediction.pptx 
 
 
 1. Scraping.ipynb 
